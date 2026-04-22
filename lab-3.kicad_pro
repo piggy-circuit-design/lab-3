@@ -497,7 +497,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "lab-2.kicad_pro",
+    "filename": "lab-3.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -674,18 +674,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "lab-2.kicad_sch",
-        "name": "lab-2",
+        "filename": "lab-3.kicad_sch",
+        "name": "lab-3",
         "uuid": "531133bc-944e-4882-a742-3b850aa50e87"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R11-12,J5,#PWR39-40",
     "variants": []
   },
   "sheets": [
     [
       "531133bc-944e-4882-a742-3b850aa50e87",
-      "lab-2"
+      "lab-3"
     ]
   ],
   "text_variables": {},
